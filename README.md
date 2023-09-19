@@ -1,4 +1,4 @@
-# Classifiction_of_Fake_News
+# Classification_of_Fake_News
 
 Problem Statement
 
